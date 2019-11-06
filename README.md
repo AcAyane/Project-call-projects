@@ -9,7 +9,10 @@ All you need is Node.js and NPM installed so we can use npm.
 # Installation
 
 1-git clone https://github.com/AcAyane/Project-call-projects.git
+
 2-cd Project-call-project
+
 3-npm install (this will install all dependecies from package.json)
+
 4-npm run dev
 

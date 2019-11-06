@@ -1,0 +1,11 @@
+export const GET_USER = "GET_USER";
+export const GET_ERRORS = "GET_ERRORS";
+export const USER_LOADING = "USER_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const SET_NAVBAR = "SET_NAVBAR";
+export const SET_POST = "SET_POST";
+export const UPDATE_USER = "UPDATE_USER";
+export const GET_POSTS = "GET_POSTS";
+export const SET_ADMIN = "SET_ADMIN";
+export const GET_POSTSA = "GET_POSTSA";
+export const GET_CV = "GET_CV";
